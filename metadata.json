@@ -1,0 +1,6 @@
+{
+  "name": "Cash Saving",
+  "description": "Gamified personal cash savings tracker with gaming-style rank progression toward PKR 100,000.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
